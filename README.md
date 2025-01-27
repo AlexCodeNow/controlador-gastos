@@ -63,7 +63,6 @@ Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
 
 ---
 
----
 
 ## **Retos y Soluciones**
 
