@@ -63,36 +63,6 @@ Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
 
 ---
 
-CONTROL-GASTOS-CONTEXTAPI/
-├── src/                 # Código fuente
-│   ├── components/      # Componentes reutilizables (Inputs, Listados, etc.)
-│   │   ├── AmountDisplay.tsx
-│   │   ├── BudgetForm.tsx
-│   │   ├── BudgetTracker.tsx
-│   │   ├── ErrorMessage.tsx
-│   │   ├── ExpenseDetail.tsx
-│   │   ├── ExpenseForm.tsx
-│   │   ├── ExpenseList.tsx
-│   │   ├── ExpenseModal.tsx
-│   │   └── FilterByCategory.tsx
-│   ├── context/        
-│   │   
-│   ├── data/            
-│   │   
-│   ├── helpers/         
-│   │   
-│   ├── hooks/           
-│   │   
-│   ├── reducers/        
-│   │   
-│   ├── types/           
-│   │   
-│   ├── App.tsx          # Componente principal
-│   ├── index.css        # Estilos globales
-│   └── main.tsx         # Punto de entrada de la aplicación
-
-
-
 ---
 
 ## **Retos y Soluciones**
